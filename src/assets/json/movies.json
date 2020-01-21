@@ -1,0 +1,20 @@
+{
+    "movies": [
+        {
+            "name": "After",
+            "synopsis": "blahblah",
+            "year": 2019,
+            "director": "Jenny Gage",
+            "review": "review line 1 \\n review line 2",
+            "score": "B-"
+        },
+        {
+            "name": "Clouds of Sils Maria",
+            "synopsis": "blahblah",
+            "year": 2014,
+            "director": "Oliver Assayas",
+            "review": "review line 1 \\n review line 2",
+            "score": "A-"
+        }
+    ]
+}

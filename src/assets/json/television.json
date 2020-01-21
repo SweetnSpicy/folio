@@ -1,0 +1,13 @@
+{
+    "tv": [
+        {
+            "name": "The Umbrella Academy",
+            "synopsis": "blahblah",
+            "year": 2019,
+            "director": "someone",
+            "season": 1,
+            "review": "review line 1 \\n review line 2",
+            "score": "B-"
+        }
+    ]
+}
